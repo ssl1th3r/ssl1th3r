@@ -3,4 +3,3 @@
 [![Zed](https://img.shields.io/badge/Zed-18181b?style=for-the-badge&logo=lightning&logoColor=3b82f6)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssl1th3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
